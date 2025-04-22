@@ -8,9 +8,14 @@ The program includes:
 - Smoking Cost Tracker  
 - BMI Calculator
 
-🛠️ **Technologies used:** C++
+## 🛠️ **Technologies used:** C++
 
-🎯 **Goal:** The goal of this program was to practice basic programming logic, conditionals, and user interaction in C++.  
+## 🎯 **Goal:** The goal of this program was to practice basic programming logic, conditionals, and user interaction in C++.  
 It was one of my early projects during my first year of university.
 
 📌 Note: This project was entirely self-initiated for learning purposes and not part of an official course.
+
+## 📥 How to Run
+1. Copy the code into your C++ IDE
+2. Compile and run
+
